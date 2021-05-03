@@ -1,5 +1,5 @@
 # Recriando a página inicial do Instagram
-## [Digital Innovation One] (https://web.digitalinnovation.one/)
+## [Digital Innovation One](https://web.digitalinnovation.one/)
 
 * CSS <br>
 * HTML <br>
